@@ -1,0 +1,3 @@
+name: kitUtils
+version: '${project.version}'
+main: it.ghostknight001.kitutils.Main
